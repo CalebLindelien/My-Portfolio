@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/assets/calebLindelien.jpeg';
-import CV from '../../assets/assets/calebLindelien.jpeg';
+import CV from '../../assets/assets/Caleb-Lindelien-Resume.pdf';
 import Info from './Info';
 
 const About = () => {
@@ -15,13 +15,13 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software engineer/developer. Attending a tech bootcamp provided me
-            with a wealth of experience in a relatively short period of time.
-            I've learned from professional mentors and instructors about
-            industry best practices, as well as collaboration with colleagues
-            via GitHub. Overall, the experience provided me with a strong
-            foundation in software development and has helped me to continue to
-            expand my horizons.
+            Software engineer/developer. Attending a engineering program
+            provided me with a wealth of experience in a relatively short period
+            of time. I've learned from professional mentors and instructors
+            about industry best practices, as well as collaboration with
+            colleagues via GitHub. Overall, the experience provided me with a
+            strong foundation in software development and has helped me to
+            continue to expand my horizons.
           </p>
           <a
             download=""
