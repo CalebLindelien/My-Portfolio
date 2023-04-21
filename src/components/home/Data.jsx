@@ -9,7 +9,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Full-Stack Developer</h3>
       <p className="home__description">
-        I'm a passionate Developer from Minneapolis, Minnesota, looking to show
+        I'm a passionate Developer from Minneapolis, Minnesota looking to show
         the world my abilities!
       </p>
     </div>

@@ -15,7 +15,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software engineer/developer. Attending a engineering program
+            Software engineer/developer. Attending an engineering program
             provided me with a wealth of experience in a relatively short period
             of time. I've learned from professional mentors and instructors
             about industry best practices, as well as collaboration with
